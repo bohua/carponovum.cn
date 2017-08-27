@@ -20,27 +20,27 @@
 <nav id="menu">
     <ul class="links">
         <li>
-            <a class="menu-group" href="/#!/Home" ng-click="scrollToTop()">主页</a>
-            <a class="menu-sub" href="/#!/Home#About" >关于我们</a>
-            <a class="menu-sub" href="/#!/Home#Company" >公司目标</a>
-            <a class="menu-sub" href="/#!/Home#Management" >管理团队</a>
-            <a class="menu-sub" href="/#!/Home#Parnters" >合作伙伴</a>
+            <a class="menu-group" href="/#!/" ng-click="scrollToTop()">主页</a>
+            <a class="menu-sub" href="/#!/Home/About" >关于我们</a>
+            <a class="menu-sub" href="/#!/Home/Company" >公司目标</a>
+            <a class="menu-sub" href="/#!/Home/Management" >管理团队</a>
+            <a class="menu-sub" href="/#!/Home/Parnters" >合作伙伴</a>
         </li>
         <li>
-            <a class="menu-group" href="/#!/Technology">技术与产品介绍</a>
-            <a class="menu-sub" href="/#!/Technology#Surgery">外科手术步骤</a>
-            <a class="menu-sub" href="/#!/Technology#Product">产品介绍</a>
-            <a class="menu-sub" href="/#!/Technology#Quality">质量与法规</a>
+            <a class="menu-group" href="/#!/Technology/Surgery">技术与产品介绍</a>
+            <a class="menu-sub" href="/#!/Technology/Surgery">外科手术步骤</a>
+            <a class="menu-sub" href="/#!/Technology/Product">产品介绍</a>
+            <a class="menu-sub" href="/#!/Technology/Quality">质量与法规</a>
         </li>
         <li>
-            <a class="menu-group" href="/#!/Company">公司结构</a>
-            <a class="menu-sub" href="/#!/Company#Board">董事会成员</a>
-            <a class="menu-sub" href="/#!/Company#Organization">组织结构</a>
-            <a class="menu-sub" href="/#!/Company#Ownership">公司所有权</a>
+            <a class="menu-group" href="/#!/Company/Board">公司结构</a>
+            <a class="menu-sub" href="/#!/Company/Board">董事会成员</a>
+            <a class="menu-sub" href="/#!/Company/Organization">组织结构</a>
+            <a class="menu-sub" href="/#!/Company/Ownership">公司所有权</a>
         </li>
         <li>
-            <a class="menu-group" href="/#!/Clinic">临床实验</a>
-            <a class="menu-sub" href="/#!/Clinic#Video">教学视频</a>
+            <a class="menu-group" href="/#!/Clinic/Video">临床实验</a>
+            <a class="menu-sub" href="/#!/Clinic/Video">教学视频</a>
         </li>
         <li>
             <a class="menu-group" href="/#!/Contact">联系我们</a>
@@ -56,7 +56,7 @@
     its extension (eg. images/banner). Your video must be available in both .mp4 and .webm
     formats to work correctly.
 -->
-<section id="banner">
+<section id="banner" ng-hide="">
     <div class="inner main-title-container">
         <div class="main-title">
             <h1>CarpoNovum</h1>
@@ -65,11 +65,11 @@
 
         <p><br/></p>
         <!--a href="https://templated.co/">郁</a> 顺之则 <a href="https://templated.co/license">Creative Commons</a>.</p-->
-        <a href="#one" class="button special scrolly" translate="home_button"></a>
+        <a href="#one" class="button special scrolly" translate="home_button" ng-click="scrollTo('#About')"></a>
     </div>
 </section>
 
-<ng-view></ng-view>
+<ng-view autoscroll></ng-view>
 
 <!-- Footer -->
 <footer id="footer" class="wrapper style3">

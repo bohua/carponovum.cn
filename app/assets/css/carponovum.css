@@ -1,13 +1,21 @@
-.main-title-container{
+html {
+    overflow-x: hidden;
+}
+
+boyd {
+    overflow-x: hidden;
+}
+
+.main-title-container {
     width: 100%;
 }
 
-.main-title{
-    background: rgba(0,0,0,0.7);
+.main-title {
+    background: rgba(0, 0, 0, 0.7);
     padding: 10px;
 }
 
-.main-title .secondary{
+.main-title .secondary {
     color: #fff;
 }
 
@@ -15,13 +23,13 @@
 
 }
 
-.menu-sub{
-    font-size:80%;
+.menu-sub {
+    font-size: 80%;
     padding-left: 15%;
-    border: none!important;
+    border: none !important;
 }
 
-.management_profile{
-    width: 50%!important;
-    margin: auto!important;
+.management_profile {
+    width: 50% !important;
+    margin: auto !important;
 }

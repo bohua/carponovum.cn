@@ -10,27 +10,27 @@ angular.module('carpoNovum', ['ngRoute'])
                     controller: 'HomeCtrl',
                     controllerAs: 'home'
                 })
-                .when('/Home', {
+                .when('/Home/:Section', {
                     templateUrl: 'assets/src/template/home.html',
                     controller: 'HomeCtrl',
                     controllerAs: 'home'
                 })
-                .when('/Company', {
+                .when('/Company/:Section', {
                     templateUrl: 'assets/src/template/company.html',
                     controller: 'CompanyCtrl',
                     controllerAs: 'company'
                 })
-                .when('/Technology', {
+                .when('/Technology/:Section', {
                     templateUrl: 'assets/src/template/technology.html',
                     controller: 'TechnologyCtrl',
                     controllerAs: 'technology'
                 })
-                .when('/Clinic', {
+                .when('/Clinic/:Section', {
                     templateUrl: 'assets/src/template/clinic.html',
                     controller: 'ClinicCtrl',
                     controllerAs: 'clinic'
                 })
-                .when('/Contact', {
+                .when('/Contact/:Section', {
                     templateUrl: 'assets/src/template/contact.html',
                     controller: 'ContactCtrl',
                     controllerAs: 'contact'
@@ -57,33 +57,43 @@ angular.module('carpoNovum', ['ngRoute'])
             };
 
         }])
-    .controller('HomeCtrl', ['$routeParams', function HomeCtrl($routeParams) {
+    .controller('HomeCtrl', ['$routeParams', '$location', function HomeCtrl($routeParams, $location) {
         this.name = 'HomeCtrl';
         this.params = $routeParams;
 
+        $location.hash($routeParams.Section);
+
         translate();
     }])
-    .controller('CompanyCtrl', ['$routeParams', function CompanyCtrl($routeParams) {
+    .controller('CompanyCtrl', ['$routeParams', '$location', function CompanyCtrl($routeParams, $location) {
         this.name = 'CompanyCtrl';
         this.params = $routeParams;
 
+        $location.hash($routeParams.Section);
+
         translate();
     }])
-    .controller('TechnologyCtrl', ['$routeParams', function CompanyCtrl($routeParams) {
+    .controller('TechnologyCtrl', ['$routeParams', '$location', function CompanyCtrl($routeParams, $location) {
         this.name = 'TechnologyCtrl';
         this.params = $routeParams;
 
-        translate();
-    }])
-    .controller('ClinicCtrl', ['$routeParams', function CompanyCtrl($routeParams) {
-        this.name = 'ClinicCtrl';
-        this.params = $routeParams;
+        $location.hash($routeParams.Section);
 
         translate();
     }])
-    .controller('ContactCtrl', ['$routeParams', function CompanyCtrl($routeParams) {
+    .controller('ClinicCtrl', ['$routeParams', '$location', function CompanyCtrl($routeParams, $location) {
+        this.name = 'ClinicCtrl';
+        this.params = $routeParams;
+
+        $location.hash($routeParams.Section);
+
+        translate();
+    }])
+    .controller('ContactCtrl', ['$routeParams', '$location', function CompanyCtrl($routeParams, $location) {
         this.name = 'ContactCtrl';
         this.params = $routeParams;
+
+        $location.hash($routeParams.Section);
 
         translate();
     }])
