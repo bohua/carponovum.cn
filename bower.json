@@ -1,0 +1,34 @@
+{
+    "name": "angularjs-template",
+    "description": "A starter project for AngularJS based on John Papa's style guide",
+    "license": "MIT",
+    "keywords": [
+        "AngularJS",
+        "angular",
+        "template",
+        "angularjs-template",
+        "seed",
+        "johnpapa",
+        "styleguide",
+        "node",
+        "express"
+    ],
+    "authors": [
+        "Michal Pietrzak"
+    ],
+    "homepage": "https://github.com/pamigomp/angularjs-template",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pamigomp/angularjs-template.git"
+    },
+    "ignore": [],
+    "dependencies": {
+        "angular": "^1.5.7",
+        "angular-animate": "^1.5.7",
+        "angular-mocks": "^1.5.7",
+        "angular-ui-router": "^0.3.1",
+        "bootstrap": "^3.3.6",
+        "jquery-ui": "^1.11.4"
+    },
+    "private": false
+}
