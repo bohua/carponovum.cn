@@ -498,27 +498,6 @@ var dict = {
         en: "A newly developed adaptive anastomosis is named CREX. In this type of anastomosis, the tissue is squeezed between an elastic silicone ring (6) and a rigid plastic ring (2). The rigid rings are held together with a snap function and accordingly adapt to the two intestinal ends. The area where the healing process takes place (5) is separated from the area where the necrosis starts (4) i.e. the part of the intestine that is squeezed between the silicone (6) rings and the rigid rings (2). The intestinal ends are only adapted to each other as a consequence of the constant distance created by the rigid rings. The blood flow in the intestinal wall in the area where the healing takes place (5) is consequently not affected by compression due to the distance between the rigid rings. Furthermore, the distance between the rigid rings inner part (4) and the healing area (5) create a chamber (3) to which a catheter is connected. It is hence possible to take samples from the chamber by the use of the connected catheter or visualize the anastomosis by the use of contrast and x-ray.\n"
     },
 
-
-    home_SurgicalProcedure_8: {
-        zh: "RapAn：两个短期植入性吻合环，称之为雌环和雄环，分别被放置在手术切除后肠道断端的近端和远端。再用两个具有弹性的O型环将肠管压紧分别固定在这两个吻合环上，而后雌雄两环可以通过一个简单的锁扣功能连接到一起。最后形成的这一整体单元就称之为组合或完整RapAn。这就是吻合全过程，整个手术过程中和手术后全程都可以通过连接在雄环上的管道系统进行监测。",
-        en: ""
-    },
-
-    home_SurgicalProcedure_9: {
-        zh: "FixAid：这一装置是用来将RapAn（FixAid的两个吻合环）安装到肠道上。最佳使用区域是在左边的结肠（降结肠和乙型结肠）以及直肠近端部分（距离肛门边缘15cm以上）。CREX FixAid 适用于单结肠（大肠）吻合，但不适用于小肠，胃肠道和消化道吻合。该器械可用于由于癌症，结肠造口术闭合，创伤等各种原因需要应用大肠切除术和吻合术的病例中。本器械的吻合环RapAn不适用于直肠远端部分（距离肛门边缘<15cm）。",
-        en: ""
-    },
-
-    home_SurgicalProcedure_10: {
-        zh: "LapAid：这一装置是用来将LapAn（LapAid的两个吻合环）安装到肠道上。最佳使用区域是在直肠近端部分（距离肛门边缘15cm以上） 。CREX LapAid适用于单结肠（大肠）吻合，但不适用于小肠，胃肠道和消化道吻合。该仪器目前仅限于临床研究使用。",
-        en: ""
-    },
-
-    home_SurgicalProcedure_11: {
-        zh: "RectoAid： RectoAn（RectoAid的两个吻合环）通过经肛门方法放入体内。该装置的最佳使用区域是在直肠远端部分（距离肛门边缘5-15cm）。CREX RectoAid适用于从直肠远端到乙型结肠最远端（直肠近端）范围的肠吻合。该仪器目前仅限于临床研究使用。",
-        en: ""
-    },
-
     home_SurgicalProcedure_12: {
         zh: "教学视频",
         en: "Instructional videos"
@@ -529,76 +508,11 @@ var dict = {
         en: "Products"
     },
 
-
     home_Products_2: {
-        zh: "CREX ® 环锁吻合术是一种独特的，被专利保护的结直肠吻合术，用于吻合肠管断端并能确证吻合效果，提供样品提取与分析功能，同时还可行导管介导的X光检查。使用该方法进行手术操作时，断端肠管两端被分别连接到两个适应性吻合环（RapAn®）上。通过吻合环的连接，断端肠管相互适应接触并最终形成吻合。在术后约10 -14天肠管愈合后，吻合环将脱离肠壁，并随粪便自然排出体外。",
-        en: "CREX ® (Colorectal anastomosis; Rejoin the intestine and validate the anastomosis; Extract samples for analysis; X-ray through connected catheters) is a patented unique method to rejoin the intestine. The adaptive rings (RapAn®) has a key position when the method is used. When the healing process is completed the RapAn follows the stools out the natural way, which usually takes 10-14 days."
-    },
-    home_Products_3: {
-        zh: "RapAn®是一个短期的植入性肠断端吻合装置，用于大肠癌病灶肠道切除后的断端吻合。RapAn®包含雌雄两个吻合环，在雄环上连接有4条导管，一路通过肛门延伸到体外。这些导管用来验证手术过程中和手术后的肠道吻合效果。",
-        en: "RapAn® is a short-term medical device that joins together the intestinal ends after removal of a tumor. Four catheters linked to RapAn® are pulled through the anal opening. The catheters are used to validate the anastomosis during and after surgery."
-    },
-    home_Products_4: {
-        zh: "FixAid®是一次性使用的结肠吻合装置组件，包含吻合环RapAn®和相对应的辅助安装装置。",
-        en: "FixAid® is a single-use kit comprising of RapAn® and corresponding tools for application of the adaptive rings for anastomosis after resection in colon."
-    },
-    home_Products_5: {
-        zh: "FixAid no cath®是一次性使用的结肠吻合装置组件，包含吻合环RapAn®和相对应的辅助安装装置。FixAid no cath®与FixAid®的不同之处在于前者的吻合环RapAn®上没有连接导管。这套装置是特别为中国市场订制设计的。",
-        en: "FixAid no cath® is a single-use kit comprising of RapAn® and corresponding tools for application of the adaptive rings for anastomosis after resection in colon. As the topic indicates there are no catheters connected to RapAn. This kit is specifically designed for the Chinese market."
-    },
-    home_Products_6: {
-        zh: "LapAid®是一套肠吻合组件，包含一个手柄，还有相应的吻合环和辅助安装工具(DMH/DMHC)。该组件适用于近端直肠吻合或是侧-侧吻合",
-        en: "LapAid® will be a kit comprising the handle and the corresponding of RapAn® and corresponding tools (DMH/DMHC) for application of the adaptive rings for anastomosis after resection in upper rectum or to perform side-to-side anastomosis."
-    },
-    home_Products_7: {
-        zh: "LapAn：与LapAid配套使用的吻合环",
-        en: "LapAn – is used together with LapAid and corresponds to RapAn used together with FixAid and RectoAn used together with RectoAid"
+        zh: "CREX是 CarpoNovum公司独家研发的专利产品，目前全球市面上尚未有其它相似的器械。公司申请了完备的产品/方法专利，覆盖了全世界各大洲的主要国家。该产品线的核心基础是肠道吻合手术短期植入环（连接环）。整个产品线共包含三种吻合器，分别适用于不同的肠区域，而连接环是通用的。其中，FixAid适用于开腹结肠手术，LapAid适用于腹腔镜结肠手术，RectoAid适用于直肠癌手术。目前，公司正在进行针对LapAid和RectoAid性能的临床研究。 产品线中还包含配套的测量仪器CREX TestDevice、连接导管以及愈合情况监测仪器CREX HealGuard。CREX TestDevice可以测量肠道的尺寸大小。连接环有两种形式，带导管的CREX DMHC或不带导管的CREX DMH。 CREX HealGuard有两个功能，用于测量手术中的肠道压力并检查手术后的吻合情况。 综上，整个CREX产品组合共包含七种设备与配件，考虑上不同的尺寸一共有十七样器材。",
+        en: "CREX is fully developed by CarpoNovum. There are no similar instruments on the global market. The unique method/products are patented on all continents. The product portfolio is based on anastomotic short-term implant rings (connection rings). The rings fit three different instruments that make it possible to put the rings in place in all different parts of colon and rectum. However, FixAid is designed for open surgery on colon, LapAid for laparoscopic surgery on colon and RectoAid for rectal cancer surgery. LapAid and RectoAid are the subjects of ongoing clinical studies. The size of the intestine is possible to measure with CREX TestDevice and the connection ring has two options, with (CREX DMHC) or without (CREX DMH) catheters. CREX HealGuard has two functions, measure the pressure during surgery and check the anastomosis after surgery. All together CREX-portfolio containing seven (7) different devices and including different sizes, it adds up to seventeen instruments."
     },
 
-    home_Products_8: {
-        zh: "RapAn：与FixAid配套使用的吻合环",
-        en: ""
-    },
-
-    home_Products_9: {
-        zh: "RectoAn：与RectoAid配套使用的吻合环",
-        en: ""
-    },
-
-    home_Products_10: {
-        zh: "RectoAid® 包括一个手柄部分和相对应的RectoAn®吻合环。该组件适用于直肠肿瘤切除后的肠吻合。",
-        en: "RectoAid® – consists of a handle portion and the corresponding RectoAn® mounted on an anvil. RectoAn fits to the corresponding LapAn and RapAn. RectoAid is used after resection of tumors in rectum."
-    },
-
-    home_Products_11: {
-        zh: "RectoAn：与RectoAid配套使用的吻合环",
-        en: "RectoAn – is used together with RectoAid and corresponds to RapAn used together with FixAid and LapAn used together with LapAid."
-    },
-
-    home_Products_12: {
-        zh: "DMCH® 是放置吻合环的辅助装置，它和CREX LapAid以及带导管的RapAn一起配套使用。",
-        en: "DMCH® will be a tool to put the Ring in place. It is used together CREX LapAid and RapAn with catheters."
-    },
-
-    home_Products_13: {
-        zh: "DMH®是放置吻合环的辅助装置，它和CREX LapAid以及不带导管的RapAn一起配套使用。",
-        en: "DMH® will be a tool to put the Ring in place. It is used together CREX LapAid and RapAn without catheters."
-    },
-
-    home_Products_14: {
-        zh: "HealGuard：压力测量装置，经由导管连接着RapAn/LapAn/RectoAn的吻合环，通过测量检测两个肠断端之间的压力大小，确保吻合的有效完成。",
-        en: "HealGuard – this Pressure Measure Device is used to validate the anastomosis i.e. the contact pressure between the intestinal ends, through the catheters connected to RapAn/LapAn/RectoAn."
-    },
-
-    home_Products_15: {
-        zh: "辅助检测仪器：可以用来测量计划吻合部位的肠直径。该仪器可以用于所有类型的吻合手术，不仅限于CREX吻合术。",
-        en: "Test Device will be a useful tool to check the diameter of the intestine at the level of the planned anastomosis. This device can be used for all anastomosis techniques, not only CREX"
-    },
-
-    home_Products_16: {
-        zh: "CREX系列产品具有多种尺寸，每种尺寸都有自己特定的颜色。 所有具有相同颜色的器械相互对应。 医生可以根据实际情况灵活来选择使用合适的产品组合进行手术。",
-        en: "The duality of CREX – Each size has its own colour. All instruments with the same colour correspond to each other. The surgeon chooses which combination of instruments to be used to solve the task optimally."
-    },
 
     home_ClinicalTrails_1: {
         zh: "临床试验",
@@ -606,8 +520,63 @@ var dict = {
     },
 
     home_ClinicalTrails_2: {
-        zh: "临床试验是指为了评估新的药物，治疗方案或是医疗器械的安全性和有效性，遵循预定方案在人类身体上进行的研究。临床试验开始之前必须要取得试验所在国家当地医疗卫生监管单位和伦理委员会的批准。临床试验的标准和规定有：2004年签署于东京的赫尔辛基宣言，ICH良好临床实践指南（CPMP / ICH / 135/95），健康和医疗卫生标准化HSS，瑞典标准SS-EN ISO 14155-1：2003和SS- EN ISO 14155-2：2003等等。",
-        en: "Clinical trials are research studies in human beings that follow a pre-defined protocol and are conducted to assess the safety and effectiveness of a new medication, therapy or device. These trials can only take place once Health Authority and Ethics Committee approval is granted in the country where the trial is taking place. Clinical trials follow different standards and regulations: Helsinki Declaration, Tokyo 2004, ICH Guidelines for Good Clinical Practice (CPMP/ICH/135/95), Health and Healthcare standardization HSS, Swedish standards SS-EN ISO 14155-1:2003 and SS-EN ISO 14155-2:2003."
+        zh: "CREX FixAid通过欧洲CE合格认证 (2009)",
+        en: "Studies leading to CE mark for CREX FixAid (2009)"
+    },
+
+    home_ClinicalTrails_3: {
+        zh: "CREX FixAid 包含了一套短期植入性外科手术器械：会短期停留在体内的植入环RapAn和辅助手术装置FixAid。RapAn和FixAid套装统称为CREX FixAid。在手术完成8-10天后机体慢慢愈合，植入环即随粪便自然排出体外。植入环上连接有4条细导管，方便医生在手术中和手术后监测肠吻合情况。公司进行了大量的动物实验（超过100头猪）和小范围的人类临床试验，初步证实了器械的安全有效性。2009年，针对欧洲CE合格认证的申请公司又做了进一步的临床试验，最终成功通过了欧洲CE合格认证。",
+        en: "CREX is a procedure which uses short term implant rings (RapAn) and instruments (FixAid) which facilitates to put the rings in place in the intestine. When the healing process is complete after 8-10 days the ring will be released and follows stool out. There are four thin catheters connected to the short-term implant ring making it possible to check the anastomosis during and after surgery. After extensive animal testing, including more than 100 pigs a small study on humans, to show that the concept was reliably carried out. After this study, a second study to CE mark the product was performed 2009. "
+    },
+
+    home_ClinicalTrails_4: {
+        zh: "临床试验：术后结肠镜观察研究（2010)",
+        en: "Colonoscopy study on humans 8 weeks after surgery (2010)"
+    },
+
+    home_ClinicalTrails_5: {
+        zh: "使用CREX方法和仪器为患者进行肠吻合手术八周后，通过结肠镜观察，吻合情况如下图左所示。其中的白色箭头显示了CREX吻合线。术后6个月后，结肠镜下就观察不到CREX吻合线了。此外，术后结肠镜观察研究形象的展示了吻合口逐渐愈合，最终恢复成正常组织的全过程。与此对照，若使用普通钉合吻合的方法进行吻合，手术后由于排异反应，吻合口会形成严重的瘢痕组织（下图中）。瘢痕组织可能会进一步导致肠腔狭窄，对患者日后的生活造成不便。如果使用手工缝合的方法进行吻合，吻合口同样也会由于术后排异反应形成一定程度的瘢痕组织（下图右）。不过，术后3-4个月以后随着缝线的消失，瘢痕组织会淡化，进入一个组织重塑的阶段。最终这种方法产生的瘢痕组织较之钉合吻合在程度上要轻许多。",
+        en: "Colonoscopy 8 weeks after surgery (photos below). White arrows indicate the anastomotic line for anastomosis performed with CREX (photo to the left). After 6 months, you can’t find the anastomosis using colonoscopy. Furthermore, histologically you can visualize that the muscle layers have found their way back to normal. Anastomosis made by staplers (photo in the middle) heals with a foreign body reaction leaving severe scar tissue that may possibly causa narrowing of the intestinal lumen. A hand sewn anastomosis (photo to the right) also heals with a foreign body reaction but after 3-4 months, when stiches disappear, the foreign body reaction fade away and a remodeling phase starts. The scar tissue will not be as severe as for staplers."
+    },
+
+    home_ClinicalTrails_6: {
+        zh: "CREX FixAid的产品市场分析研究（2012）",
+        en: "Market analysis of CREX FixAid (2012)"
+    },
+
+    home_ClinicalTrails_7: {
+        zh: "2012年，公司在瑞典，丹麦，挪威，德国，英国和中国的50家医院进行了广泛的市场调研与分析。分析结果显示：CREX产品原理确凿可靠，简便易操作，市场前景良好。不过公司还需要进一步完善产品线，开发出适用于腹腔镜手术，机器人手术和低直肠癌肿瘤手术的仪器以满足市场需求。公司董事会综合考虑了市场分析结果后，决定继续跟进产品的研发。2013年到2015年，产品的后续研发完成，相关动物实验也显示了非常出色的结果。此外， 公司对短期植入环做了细微的调整以适应新的市场需求。",
+        en: "In 2012, an extensive market analysis including 50 hospitals in Sweden, Denmark, Norway, Germany, England and China was performed. The result of this analysis showed that the concept was reliable and easy to use for the surgeon. However, further instruments to CREX-portfolio had to be completed before the concept was ready for the market. Instruments that made it possible to use CREX for laparoscopic surgery, robotic surgery and surgery on low rectal cancer tumors. Considering the results from the marketing analysis, the Board took the decision that these instruments should be developed. During 2013-15, these instruments where developed and tested on animals with outstanding results. The short-term implant ring was modified to be meet the new requirements."
+    },
+
+    home_ClinicalTrails_8: {
+        zh: "比较试验：CREX LapAid 与普通钉合吻合器（2014）",
+        en: "Comparison study on CREX LapAid vs Staplers (2014)"
+    },
+
+    home_ClinicalTrails_9: {
+        zh: "手术中和手术后监测吻合情况有几种不同方法。比较和判定这些方法的临床价值不是一件容易的事情。我们选择在手术后不同时间点（1h，12h，24h，48h和72h），以爆破压力值作为比较依据来监测术后的吻合情况（肠壁张力值大于爆破压力值，则容易发生吻合瘘）。我们的比较试验显示，使用CREX技术进行的吻合术，在手术后的所有时间点的吻合口爆破压力值都超过200毫巴，即肠壁张力值始终小于吻合口爆破压力值（下图绿色曲线） 。如果使用普通钉合吻合，则术后48小时吻合口爆破压力值明显小于200毫巴。这意味着吻合口处于脆弱状态，易发生吻合口瘘（下图红色曲线）。此外，两种吻合方式在术后7天（植入环自然脱落，随粪便排出）的吻合口爆破压力值的对比也显示，使用CREX技术吻合口更不易发生吻合口瘘。",
+        en: "There are different methods available to check the strength of the anastomosis during and after surgery. It is of course difficult to evaluate the clinical value of such methods. However, we have chosen to use burst pressure, as state of the art, at different time points after surgery (1h, 12h, 24h, 48h and 72h. By doing that we have shown that the anastomosis performed by CREX (green curve, fig to the left) was stronger (more than 200 mbar) than the intestinal wall at all time points after surgery. Stapled anastomosis where fragile the first 48 hours (red curve, fig to the left). Burst pressure performed after 7 days (when the ring came loose and followed feces out) also showed that CREX was stronger than the intestinal wall. "
+    },
+
+    home_ClinicalTrails_10: {
+        zh: "临床试验：CREX LapAid （2017）",
+        en: "Human studies on CREX LapAid (2017)"
+    },
+
+    home_ClinicalTrails_11: {
+        zh: "鉴于CREX LapAid在之前的动物试验和和比较试验中都显示了良好的试验结果，公司决定招募患者，展开了小规模的临床试验。2017年8月，20例临床试验圆满结束。试验终点为术后8-10天后，短期植入环自然脱落，随粪便排出患者体外。开展一个全新产品的临床试验，取得外科医生的认可对于试验的推进至关重要。公司十分重视临床医生的反馈，积极与第一线的工作人员沟通治疗方案，不断改进。最终，所有20例临床试验都圆满结束：没有发生任何吻合口瘘，产品安全性，有效性和方便易用性受到了一致认可。基于这一巨大成功，公司计划扩大临床试验规模至200例，新的临床试验项目将于2017年9月启动。",
+        en: "Since animal studies and comparison studies showed very promising results the next step was to perform a small study on humans. At present (August 2017), a clinical study including 20 patients has just been closed. The endpoint of the study was when the short-term implant leaved the intestine after 8-10 days. However, when you perform a study with a new instrument it’s very important to get acceptance among surgeons. We have put very much efforts on accreditation and to discuss the guidelines on the ward, how to treat the patients after surgery. No leakage in anastomosis, very well accepted as an excellent functional and easy to use device. We have been doing well. In autumn (2017) a larger study including 200 patients at two different sites is taking place. "
+    },
+
+    home_ClinicalTrails_12: {
+        zh: "临床试验：CREX RectoAid （2017）",
+        en: "Human studies on CREX RectoAid"
+    },
+
+    home_ClinicalTrails_13: {
+        zh: "CREX RectoAid的临床试验也在进行中。该仪器已经通过了中国食品药品管理局的审核。目前仪器的临床试验方案正在瑞典和中国选定试验医院经由医院伦理委员会讨论审核。该临床试验与CREX LapAid的试验方案相似，只是使用部位由结肠改为了直肠。试验终点完全一样，试验认证方案也相似。一旦该临床试验方案获得伦理委员会的批准，大概需要3个月左右完成20例试验。",
+        en: "At present a clinical study with RectoAid is on track. The device is approved by the Chinese authority C-FDA and an ongoing discussion is taking place at the ethical committee at a larger hospital in China and Sweden. The study is similar to CREX LapAid study but the location of the tumor is in rectum instead of colon. The endpoints are the identical and the accreditation plans are similar to what is performed for CREX LapAid. When the study is approved by the ethical committee it will take approximately 3 months to perform the study on 20 patients. "
     },
 
     home_instructional_video: {
