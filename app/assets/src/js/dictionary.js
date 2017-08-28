@@ -488,6 +488,13 @@ var dict = {
         en: "B. Compression Anastomosis "
     },
 
+
+    home_SurgicalProcedure_5b: {
+        zh: "吻合结肠的第二种方式是使用压缩式吻合术。在这种类型的吻合中，吻合器会对整个吻合口周围组织产生一个持续挤压作用力F2，使得被挤压的组织坏死。手术后，该坏死组织会吞噬相邻的愈合中的健康组织（B），对机体愈合造成干扰。这使得压缩式吻合具有一定随意性，压缩环可能会在愈合早期脱落，留下肠道自行愈合。如果手术后肠压力高，吻合可能会特别脆弱。\n",
+        en: "Another way to anastomose colon is by the use of Compression Anastomosis. In this type of anastomosis, the tissue is continually squeezed by a load F2 that affects the tissue around the whole circumference of the anastomosis. The squeezed tissue necrotizes. The healing is disturbed by necrotic tissue engulfing just adjacent to where the process of healing (B) takes place. This makes compression anastomosis arbitrary and as a consequence the compression ring comes lose early in the healing process and leaves the intestine the natural way. This may possibly make the anastomosis vulnerable especially if intestines are subjected to tension after surgery.\n"
+    },
+
+
     home_SurgicalProcedure_6: {
         zh: "C. 适应性吻合术",
         en: "C. Adaptive Anastomosis"
@@ -513,6 +520,40 @@ var dict = {
         en: "CREX is fully developed by CarpoNovum. There are no similar instruments on the global market. The unique method/products are patented on all continents. The product portfolio is based on anastomotic short-term implant rings (connection rings). The rings fit three different instruments that make it possible to put the rings in place in all different parts of colon and rectum. However, FixAid is designed for open surgery on colon, LapAid for laparoscopic surgery on colon and RectoAid for rectal cancer surgery. LapAid and RectoAid are the subjects of ongoing clinical studies. The size of the intestine is possible to measure with CREX TestDevice and the connection ring has two options, with (CREX DMHC) or without (CREX DMH) catheters. CREX HealGuard has two functions, measure the pressure during surgery and check the anastomosis after surgery. All together CREX-portfolio containing seven (7) different devices and including different sizes, it adds up to seventeen instruments."
     },
 
+    home_Products_3: {
+        zh: "CREX FixAid Size 26, 29, 32",
+        en: "CREX FixAid Size 26, 29, 32"
+    },
+
+    home_Products_4: {
+        zh: "CREX LapAid Size 26, 29, 32",
+        en: "CREX LapAid Size 26, 29, 32"
+    },
+
+    home_Products_5: {
+        zh: "CREX RectoAid Size 26, 29, 32",
+        en: "CREX RectoAid Size 26, 29, 32"
+    },
+
+    home_Products_6: {
+        zh: "CREX TestDevice",
+        en: "CREX TestDevice"
+    },
+
+    home_Products_7: {
+        zh: "CREX DMHC Size 26, 29, 32",
+        en: "CREX DMHC Size 26, 29, 32"
+    },
+
+    home_Products_8: {
+        zh: "CREX DMH Size 26, 29, 32",
+        en: "CREX DMH Size 26, 29, 32"
+    },
+
+    home_Products_9: {
+        zh: "CREX HealGuard",
+        en: "CREX HealGuard"
+    },
 
     home_ClinicalTrails_1: {
         zh: "临床试验",
@@ -582,6 +623,191 @@ var dict = {
     home_instructional_video: {
         zh: "教学视频",
         en: "Instructional Video"
+    },
+
+    contact_title: {
+        zh: "关于我们",
+        cn: "Our people"
+    },
+
+    contact_1:{
+        zh:"Anders Grönberg",
+        en:"Anders Grönberg"
+    },
+
+    contact_2:{
+        zh:"MD, PhD, Senior Surgeon",
+        en:"MD, PhD, Senior Surgeon"
+    },
+
+    contact_3:{
+        zh:"Jonas Gulliksson",
+        en:"Jonas Gulliksson"
+    },
+
+    contact_4:{
+        zh:"President of Board, Intellectual Property, Attorney",
+        en:"President of Board, Intellectual Property, Attorney"
+    },
+
+    contact_5:{
+        zh:"Denis Viet-Jacobsen",
+        en:"Denis Viet-Jacobsen"
+    },
+
+    contact_6:{
+        zh:"Board member, Foreign Affairs Business Adviser",
+        en:"Board member, Foreign Affairs Business Adviser"
+    },
+
+    contact_7:{
+        zh:"Harald Castler",
+        en:"Harald Castler"
+    },
+
+    contact_8:{
+        zh:"Board member, Market analysis and business strategy",
+        en:"Board member, Market analysis and business strategy"
+    },
+
+    contact_9:{
+        zh:"Lars-Peter Harbing",
+        en:"Lars-Peter Harbing"
+    },
+
+    contact_10:{
+        zh:"Board member, Medical Device Business Adviser",
+        en:"Board member, Medical Device Business Adviser"
+    },
+
+    contact_11:{
+        zh:"Bengt Sjöholm",
+        en:"Bengt Sjöholm"
+    },
+
+    contact_12:{
+        zh:"Board member, Market analysis and business strategy",
+        en:"Board member, Market analysis and business strategy"
+    },
+
+    contact_13:{
+        zh:"Hans Skalin",
+        en:"Hans Skalin"
+    },
+
+    contact_14:{
+        zh:"Board member, Senior Foreign Affairs Business Adviser",
+        en:"Board member, Senior Foreign Affairs Business Adviser"
+    },
+
+    contact_15:{
+        zh:"Olof Stocksén",
+        en:"Olof Stocksén"
+    },
+
+    contact_16:{
+        zh:"Senior Foreign Affairs Business Adviser",
+        en:"Senior Foreign Affairs Business Adviser"
+    },
+
+    contact_17:{
+        zh:"Jörgen Sjöholm",
+        en:"Jörgen Sjöholm"
+    },
+
+    contact_18:{
+        zh:"Quality Manager",
+        en:"Quality Manager"
+    },
+
+    contact_19:{
+        zh:"Pontus Gedda",
+        en:"Pontus Gedda"
+    },
+
+    contact_20:{
+        zh:"Quality consultant",
+        en:"Quality consultant"
+    },
+
+    contact_21:{
+        zh:"Roland Norman",
+        en:"Roland Norman"
+    },
+
+    contact_22:{
+        zh:"Design and engineering",
+        en:"Design and engineering"
+    },
+
+    contact_23:{
+        zh:"Mattias Gellett",
+        en:"Mattias Gellett"
+    },
+
+    contact_24:{
+        zh:"Design and engineering consultant",
+        en:"Design and engineering consultant"
+    },
+
+    contact_25:{
+        zh:"Maria Djärv",
+        en:"Maria Djärv"
+    },
+
+    contact_26:{
+        zh:"Economic and Administration",
+        en:"Economic and Administration"
+    },
+
+    contact_27:{
+        zh:"Jenny Broén",
+        en:"Jenny Broén"
+    },
+
+    contact_28:{
+        zh:"Economic and Administration consultant",
+        en:"Economic and Administration consultant"
+    },
+
+    contact_29:{
+        zh:"Songen Zhang",
+        en:"Songen Zhang"
+    },
+
+    contact_30:{
+        zh:"MD, PhD, Clinical Study Monitor",
+        en:"MD, PhD, Clinical Study Monitor"
+    },
+
+    contact_31:{
+        zh:"Su Zhang",
+        en:"Su Zhang"
+    },
+
+    contact_32:{
+        zh:"MD, PhD, Clinical Trials Advisor",
+        en:"MD, PhD, Clinical Trials Advisor"
+    },
+
+    contact_33:{
+        zh:"Huijie Li",
+        en:"Huijie Li"
+    },
+
+    contact_34:{
+        zh:"MSc, Clinical Study Monitor",
+        en:"MSc, Clinical Study Monitor"
+    },
+
+    contact_35:{
+        zh:"Bohua Li",
+        en:"Bohua Li"
+    },
+
+    contact_36:{
+        zh:"IT Associate",
+        en:"IT Associate"
     }
 };
 

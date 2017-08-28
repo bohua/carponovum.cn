@@ -2,7 +2,7 @@ html {
     overflow-x: hidden;
 }
 
-boyd {
+body {
     overflow-x: hidden;
 }
 
@@ -32,4 +32,17 @@ boyd {
 .management_profile {
     width: 50% !important;
     margin: auto !important;
+}
+
+/* Portrait and Landscape */
+@media only screen
+and (min-device-width: 480px)
+and (-webkit-min-device-pixel-ratio: 2) {
+    .double-item-layout{
+        width: 50%!important;
+    }
+}
+
+.contact-box{
+    min-height: 300px;
 }
