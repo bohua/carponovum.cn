@@ -70,7 +70,7 @@ var dict = {
     },
 
     index_nav_13:{
-        zh: "临床实验",
+        zh: "临床试验",
         en: "Clinical Trials"
     },
 
@@ -554,7 +554,7 @@ var dict = {
     },
 
     home_SurgicalProcedure_3: {
-        zh: "A. 吻合钉合术",
+        zh: "A. 钉合吻合术",
         en: "A. Stapling Technology"
     },
 
