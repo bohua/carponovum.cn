@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html ng-app="carpoNovum">
 <head>
-    <title>Carponovum Home 郁达门户网</title>
+    <title>Carponovum China 源自瑞典</title>
     <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <link rel="stylesheet" href="assets/css/main.css"/>
@@ -20,30 +20,29 @@
 <nav id="menu">
     <ul class="links">
         <li>
-            <a class="menu-group" href="/#!/" ng-click="scrollToTop()">主页</a>
-            <a class="menu-sub" href="/#!/Home/About" >关于我们</a>
-            <a class="menu-sub" href="/#!/Home/Company" >公司目标</a>
-            <a class="menu-sub" href="/#!/Home/Management" >管理团队</a>
-            <a class="menu-sub" href="/#!/Home/Parnters" >合作伙伴</a>
+            <a class="menu-group" href="/#!/" ng-click="scrollToTop()" translate="index_nav_1"></a>
+            <a class="menu-sub" href="/#!/Home/About" translate="index_nav_2"></a>
+            <a class="menu-sub" href="/#!/Home/Company" translate="index_nav_3"></a>
+            <a class="menu-sub" href="/#!/Home/Management" translate="index_nav_4"></a>
+            <a class="menu-sub" href="/#!/Home/Parnters" translate="index_nav_5"></a>
         </li>
         <li>
-            <a class="menu-group" href="/#!/Technology/Surgery">技术与产品介绍</a>
-            <a class="menu-sub" href="/#!/Technology/Surgery">外科手术步骤</a>
-            <a class="menu-sub" href="/#!/Technology/Product">产品介绍</a>
-            <a class="menu-sub" href="/#!/Technology/Quality">质量与法规</a>
+            <a class="menu-group" href="/#!/Technology/Technology" translate="index_nav_6"></a>
+            <a class="menu-sub" href="/#!/Technology/Surgery" translate="index_nav_7"></a>
+            <a class="menu-sub" href="/#!/Technology/Product" translate="index_nav_8"></a>
+            <a class="menu-sub" href="/#!/Technology/Quality" translate="index_nav_9"></a>
         </li>
         <li>
-            <a class="menu-group" href="/#!/Company/Board">公司结构</a>
-            <a class="menu-sub" href="/#!/Company/Board">董事会成员</a>
-            <a class="menu-sub" href="/#!/Company/Organization">组织结构</a>
-            <a class="menu-sub" href="/#!/Company/Ownership">公司所有权</a>
+            <a class="menu-group" href="/#!/Company/Board" translate="index_nav_10"></a>
+            <a class="menu-sub" href="/#!/Company/Board" translate="index_nav_11"></a>
+            <a class="menu-sub" href="/#!/Company/Organization" translate="index_nav_12"></a>
         </li>
         <li>
-            <a class="menu-group" href="/#!/Clinic/Clinic">临床实验</a>
-            <a class="menu-sub" href="/#!/Clinic/Video">教学视频</a>
+            <a class="menu-group" href="/#!/Clinic/Clinic" translate="index_nav_13"></a>
         </li>
         <li>
-            <a class="menu-group" href="/#!/Contact/Contact">联系我们</a>
+            <a class="menu-group" href="/#!/News/News" translate="index_nav_16"></a>
+            <a class="menu-group" href="/#!/Contact/Contact" translate="index_nav_15"></a>
         </li>
 
 
@@ -56,16 +55,16 @@
     its extension (eg. images/banner). Your video must be available in both .mp4 and .webm
     formats to work correctly.
 -->
-<section id="banner" ng-hide="">
+<section id="banner">
     <div class="inner main-title-container">
         <div class="main-title">
             <h1>CarpoNovum</h1>
-            <h2 class="secondary"> 卡普诺华 </h2>
+            <h2 class="secondary" class="scrolly"> 卡普诺华 </h2>
         </div>
 
         <p><br/></p>
         <!--a href="https://templated.co/">郁</a> 顺之则 <a href="https://templated.co/license">Creative Commons</a>.</p-->
-        <a href="/#!/Home/About" class="button special scrolly" translate="home_button" ng-click="scrollTo('#About')"></a>
+        <a class="button special" translate="home_button" ng-click="scrollTo('#About')" ng-show="showBanner"></a>
     </div>
 </section>
 

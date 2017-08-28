@@ -3804,7 +3804,7 @@
 
 			#banner {
 				min-height: 0;
-				height: auto !important;
+				/*height: auto !important;*/
 				padding: 6rem 2rem 4rem 2rem;
 			}
 

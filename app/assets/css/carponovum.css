@@ -46,3 +46,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
 .contact-box{
     min-height: 300px;
 }
+
+.center-align{
+    text-align: center;
+}

@@ -9,6 +9,86 @@ var dict = {
         en: "Menu"
     },
 
+    index_nav_1:{
+        zh: "主页",
+        en: "Home Page"
+    },
+
+    index_nav_2:{
+        zh: "关于我们",
+        en: "About Us"
+    },
+
+    index_nav_3:{
+        zh: "公司目标",
+        en: "The Vision"
+    },
+
+    index_nav_4:{
+        zh: "管理团队",
+        en: "Management Team"
+    },
+
+    index_nav_5:{
+        zh: "生产",
+        en: "Production"
+    },
+
+    index_nav_6:{
+        zh: "技术与产品介绍",
+        en: "Technology and Products"
+    },
+
+    index_nav_7:{
+        zh: "外科手术步骤",
+        en: "Surgical procedure"
+    },
+
+    index_nav_8:{
+        zh: "产品介绍",
+        en: "Products"
+    },
+
+    index_nav_9:{
+        zh: "质量与法规",
+        en: "Quality and Regulatory"
+    },
+
+    index_nav_10:{
+        zh: "公司",
+        en: "Company"
+    },
+
+    index_nav_11:{
+        zh: "董事会成员",
+        en: "Board of Directors"
+    },
+
+    index_nav_12:{
+        zh: "组织结构",
+        en: "Organization "
+    },
+
+    index_nav_13:{
+        zh: "临床实验",
+        en: "Clinical Trials"
+    },
+
+    index_nav_14:{
+        zh: "教学视频",
+        en: "Videos"
+    },
+
+    index_nav_15:{
+        zh: "联系我们",
+        en: "Contact Us"
+    },
+
+    index_nav_16:{
+        zh: "新闻",
+        en: "News"
+    },
+
     home_footer_design: {
         zh: "网站设计:",
         en: "Website Design"
@@ -625,9 +705,64 @@ var dict = {
         en: "Instructional Video"
     },
 
+    home_instructional_video_1: {
+        zh: "CREX-RectoAid",
+        en: "CREX-RectoAid"
+    },
+
+    home_instructional_video_2: {
+        zh: "CREX-FixAid",
+        en: "CREX-FixAid"
+    },
+
+    home_instructional_video_3: {
+        zh: "CREX-LapAid - with catheter",
+        en: "CREX-LapAid - with catheter"
+    },
+
+    home_instructional_video_4: {
+        zh: "CREX-LapAid - without catheter",
+        en: "CREX-LapAid - without catheter"
+    },
+
+    home_instructional_video_5: {
+        zh: "CREX-System",
+        en: "CREX-System"
+    },
+
+    home_instructional_video_6: {
+        zh: "CREX-Xray",
+        en: "CREX-Xray"
+    },
+
     contact_title: {
-        zh: "关于我们",
-        cn: "Our people"
+        zh: "联系我们",
+        cn: "Contact Us"
+    },
+
+    contact_office_1:{
+        zh: "办公总部",
+        en: "Main Office"
+    },
+
+    contact_office_2:{
+        zh: "地址 Olofsdalsvägen 10",
+        en: "Olofsdalsvägen 10"
+    },
+
+    contact_office_3:{
+        zh: "邮编 302 41 Halmstad",
+        en: "302 41 Halmstad"
+    },
+
+    contact_office_4:{
+        zh: "电话: +46-46-540 86 56",
+        en: "+46-46-540 86 56"
+    },
+
+    contact_office_5:{
+        zh: "邮件: info@carponovum.com",
+        en: "info@carponovum.com"
     },
 
     contact_1:{
@@ -808,6 +943,16 @@ var dict = {
     contact_36:{
         zh:"IT Associate",
         en:"IT Associate"
+    },
+
+    news_header:{
+        zh:"新闻",
+        en:"News"
+    },
+
+    news_comingsoon:{
+        zh:"更新中...",
+        en:"Coming Soon..."
     }
 };
 
