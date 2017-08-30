@@ -25,8 +25,8 @@ var dict = {
     },
 
     index_nav_4:{
-        zh: "管理团队",
-        en: "Management Team"
+        zh: "执行总裁简介",
+        en: "CEO of CarpoNovum"
     },
 
     index_nav_5:{
