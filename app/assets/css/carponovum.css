@@ -50,3 +50,7 @@ and (-webkit-min-device-pixel-ratio: 2) {
 .center-align{
     text-align: center;
 }
+
+.ceo_box .row {
+    margin-bottom: 10px;
+}

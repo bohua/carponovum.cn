@@ -211,29 +211,44 @@ var dict = {
     },
 
 
-    home_ManagementTeam_1: {
-        zh: "管理团队",
-        en: "Management Team "
+    home_ManagementTeam_title_1: {
+        zh: "公司执行总裁介绍",
+        en: "CEO of CarpoNovum"
     },
 
-    home_ManagementTeam_2_title: {
+    home_ManagementTeam_title_2: {
         zh: "安德斯·格伦博格\n Anders Grönberg",
         en: "Anders Grönberg"
     },
 
-    home_ManagementTeam_2: {
-        zh: "公司执行总裁，瑞典林雪平大学医学博士 （1991），微生物学博士（1992）。格伦博格博士拥有超过十五年外科医生临床经验，十年结直肠外科手术专科经验，2006年获任瑞典赫尔辛堡市结直肠门诊主任医师。安德斯博士还有超过五年的设计工程师工作经验，是CarpoNovum公司产品专利所有者，公司事务总负责人。",
-        en: "Qualified as MD from the University of Linköping 1989 and has over 15 years surgical practice with 10 years focused on colorectal cancer surgery. He was appointed as senior clinician at the Colorectal Surgical Clinic in 2006. Anders Grönberg also holds a PhD in microbiology and defended his dissertation at Linköping University Hospital 1992. He has also worked as a design engineer for more than 5 years. He is also inventor and has run the business for 3 years."
+    home_ManagementTeam_title_3: {
+        zh: "公司执行总裁",
+        en: "CEO of CarpoNovum"
     },
 
-    home_ManagementTeam_3_title: {
-        zh: "约根·湖霍尔姆\n Jörgen Sjöholm",
-        en: "Jörgen Sjöholm"
+    home_ManagementTeam_title_4: {
+        zh: "格伦博格医生/博士自2006年起担任公司执行总裁，公司产品专利所有者 ，公司事务总负责人。 ",
+        en: "CEO of CarpoNovum since 2006. CarpoNovum company product patent owner, corporate affairs general manager."
+    },
+
+    home_ManagementTeam_1: {
+        zh: "曾做过瑞典萨博（SAAB）飞机制造工业设计工程师，专注于战斗机着陆装置的相关设计",
+        en: "Former design engineer at SAAB aircraft industry in Linköping, focused on landing gear on fighter jets."
+    },
+
+    home_ManagementTeam_2: {
+        zh: "还为瑞典Tydraul重工设计过重型卡车后轴",
+        en: "Former design engineer at Tydraul Sweden focused on rear axle at heavy duty trucks."
     },
 
     home_ManagementTeam_3: {
-        zh: "生产与质量控制总监。约根精通工程与医疗器械领域的法律法规。他善于理性分析，是解决医疗器械行业高精复杂问题的顶尖人才。教育与培训背景：瑞典哈姆斯塔德大学创新工程学士（1991）；AAMI质量系统条例与行业规范培训（2009）；IBC Euroforum医疗器械CE安全认证培训（2007）；Preventia： 21 CFR 820, QSR, GMP培训（2006）；Preventia：MDD, MDD draft 2005, ISO1497培训（2006）。",
-        en: "QRM specializes in the interface between engineering and regulatory affairs in medical device development. He has a logical and analytical mind, which is crucial for the highly complex issues in the medical device industry. Education: BSc Innovation Engineering, Halmstad University (1991), Quality System Regulation and industry practice; AAMI (2009), CE-marking of medical devices; IBC Euroforum (2007), 21 CFR 820, QSR, GMP; Preventia (2006), MDD, MDD draft 2005, ISO1497; Preventia (2006)"
+        zh: "医学博士（1991）微生物学博士（1992）",
+        en: "Doctor in Microbiology (PhD) (1992)."
+    },
+
+    home_ManagementTeam_4: {
+        zh: "1997年起专攻结直肠外科手术，2006年起任瑞典赫尔辛堡市结直肠门诊主任医师。",
+        en: "Speicalist in colorectal surgery since 1997. Chief physician of the colorectal surgery 2006"
     },
 
     home_BoardOfDirectors_1: {
