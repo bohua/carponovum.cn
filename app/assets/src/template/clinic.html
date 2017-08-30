@@ -151,7 +151,9 @@
     var container = $('#Video .content');
     var width = container.outerWidth();
     container.height(width / 1.775 + 'px');
-    container.css('background', 'url('+ container.find('video').attr('poster') +') no-repeat');
+    container.each(function(i){
+        $(this).css('background', 'url('+ $(this).find('video').attr('poster') +') no-repeat');
+    });
     container.css('background-size', 'cover');
 
     //videojs('video_1').videoJsResolutionSwitcher();
