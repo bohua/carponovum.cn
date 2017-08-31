@@ -71,7 +71,7 @@
         <h2 translate="home_instructional_video"></h2>
 
         <h3 translate="home_instructional_video_1"></h3>
-        <!--div class="content center-align 6u 12u$(small)">
+        <div class="content center-align 6u 12u$(small)">
             <video id="video_1" class="video-js vjs-default-skin" poster="images/CREX-RectoAid.jpg" data-setup='{}'
                    preload="none" controls controlsList="nodownload" fluid="true">
                 <source src="videos/CREX-RectoAid-240p.mp4" type="video/mp4" label='240P' res="240">
@@ -80,7 +80,7 @@
                 <source src="videos/CREX-RectoAid-720p.mp4" type="video/mp4" label='720P' res="720">
                 Your browser does not support the video tag.
             </video>
-        </div-->
+        </div>
 
         <h3 translate="home_instructional_video_2"></h3>
         <div class="content center-align 6u 12u$(small)">
@@ -144,6 +144,9 @@
     </div>
 </section>
 
+
+<script src="assets/js/video.js"></script>
+<script src="assets/js/videojs-resolution-switcher.js"></script>
 <script>
     var container = $('#Video .content');
     var width = container.outerWidth();
@@ -153,7 +156,7 @@
     });
     container.css('background-size', 'cover');
 
-    //videojs('video_1').videoJsResolutionSwitcher();
+    videojs('video_1').videoJsResolutionSwitcher();
     videojs('video_2').videoJsResolutionSwitcher();
     videojs('video_3').videoJsResolutionSwitcher();
     videojs('video_4').videoJsResolutionSwitcher();
