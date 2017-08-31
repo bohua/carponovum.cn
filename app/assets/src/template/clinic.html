@@ -70,6 +70,7 @@
 
         <h2 translate="home_instructional_video"></h2>
 
+        <hr>
         <h3 translate="home_instructional_video_1"></h3>
         <div class="content center-align 6u 12u$(small)">
             <video id="video_1" class="video-js vjs-default-skin" poster="images/CREX-RectoAid.jpg" data-setup='{}'
@@ -81,7 +82,16 @@
                 Your browser does not support the video tag.
             </video>
         </div>
+        <div class="6u 12u$(small) video-comment">
+            <div class="image left">
+                <img src="images/gear.jpg" alt=""/>
+            </div>
 
+            <p class="video-comment-text" translate="instructional_video_comment"></p>
+        </div>
+        <hr>
+
+        <hr>
         <h3 translate="home_instructional_video_2"></h3>
         <div class="content center-align 6u 12u$(small)">
             <video id="video_2" class="video-js vjs-default-skin" poster="images/CREX-FixAid.jpg" data-setup='{}'
@@ -93,7 +103,16 @@
                 Your browser does not support the video tag.
             </video>
         </div>
+        <div class="6u 12u$(small) video-comment">
+            <div class="image left">
+                <img src="images/gear.jpg" alt=""/>
+            </div>
 
+            <p class="video-comment-text" translate="instructional_video_comment"></p>
+        </div>
+        <hr>
+
+        <hr>
         <h3 translate="home_instructional_video_3"></h3>
         <div class="content center-align 6u 12u$(small)">
             <video id="video_3" class="video-js vjs-default-skin" poster="images/CREX-LapAid-with_catheter.jpg"
@@ -105,7 +124,16 @@
                 Your browser does not support the video tag.
             </video>
         </div>
+        <div class="6u 12u$(small) video-comment">
+            <div class="image left">
+                <img src="images/gear.jpg" alt=""/>
+            </div>
 
+            <p class="video-comment-text" translate="instructional_video_comment"></p>
+        </div>
+        <hr>
+
+        <hr>
         <h3 translate="home_instructional_video_4"></h3>
         <div class="content center-align 6u 12u$(small)">
             <video id="video_4" class="video-js vjs-default-skin" poster="images/CREX-LapAid-without_catheter.jpg"
@@ -117,7 +145,16 @@
                 Your browser does not support the video tag.
             </video>
         </div>
+        <div class="6u 12u$(small) video-comment">
+            <div class="image left">
+                <img src="images/gear.jpg" alt=""/>
+            </div>
 
+            <p class="video-comment-text" translate="instructional_video_comment"></p>
+        </div>
+        <hr>
+
+        <hr>
         <h3 translate="home_instructional_video_5"></h3>
         <div class="content center-align 6u 12u$(small)">
             <video id="video_5" class="video-js vjs-default-skin" poster="images/CREX-System.jpg" data-setup='{}'
@@ -129,7 +166,16 @@
                 Your browser does not support the video tag.
             </video>
         </div>
+        <div class="6u 12u$(small) video-comment">
+            <div class="image left">
+                <img src="images/gear.jpg" alt=""/>
+            </div>
 
+            <p class="video-comment-text" translate="instructional_video_comment"></p>
+        </div>
+        <hr>
+
+        <hr>
         <h3 translate="home_instructional_video_6"></h3>
         <div class="content center-align 6u 12u$(small)">
             <video id="video_6" class="video-js vjs-default-skin" poster="images/CREX-Xray.jpg" data-setup='{}'
@@ -141,6 +187,14 @@
                 Your browser does not support the video tag.
             </video>
         </div>
+        <div class="6u 12u$(small) video-comment">
+            <div class="image left">
+                <img src="images/gear.jpg" alt=""/>
+            </div>
+
+            <p class="video-comment-text" translate="instructional_video_comment"></p>
+        </div>
+        <hr>
     </div>
 </section>
 
@@ -148,13 +202,19 @@
 <script src="assets/js/video.js"></script>
 <script src="assets/js/videojs-resolution-switcher.js"></script>
 <script>
-    var container = $('#Video .content');
-    var width = container.outerWidth();
-    container.height(width / 1.775 + 'px');
-    container.each(function(i){
-        $(this).css('background', 'url('+ $(this).find('video').attr('poster') +') no-repeat');
-    });
-    container.css('background-size', 'cover');
+    function resetVideoSize() {
+        var container = $('#Video .content');
+        var width = container.outerWidth();
+        container.height(width / 1.775 + 'px');
+        container.each(function (i) {
+            $(this).css('background', 'url(' + $(this).find('video').attr('poster') + ') no-repeat');
+        });
+        container.css('background-size', 'cover');
+    }
+
+    resetVideoSize();
+
+    $(window).resize(resetVideoSize);
 
     videojs('video_1').videoJsResolutionSwitcher();
     videojs('video_2').videoJsResolutionSwitcher();

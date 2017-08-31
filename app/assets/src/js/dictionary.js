@@ -306,6 +306,26 @@ var dict = {
         en: "Member of the Board. Mr. Harbing is a senior international executive with global experience in all facets leading fully integrated businesses. His global experiences include high profile medical companies in the USA, Middle East, Africa, Asia Pacific and Latin America. He has worked for Johnson & Johnson in various positions between 1998 – 2009, most recently as President EMEA – Hamburg/Germany. Since 2009 he has been focused on local company boards as a consultant business strategist."
     },
 
+    home_BoardOfDirectors_7_title:{
+        zh: "安德斯·格伦博格（Bengt Sjöholm）",
+        en: "Bengt Sjöholm"
+    },
+
+    home_BoardOfDirectors_7: {
+        zh: "董事会成员，市场与业务发展战略顾问。本特·湖霍尔姆在医疗器械行业工作多年，尤其熟悉制药和医院的运作情况。本特在瑞典著名医疗器械公司Getinge担任集团高层领导超过10年。他同时也是一家康乐事业公司Tylö Group和一家骨科矫形医院Movement Medical的执行总裁，兼任多家公司的董事会成员。本特目前正在做一个有关创新医院管理的项目。",
+        en: "Board member, Market analysis and Business Strategy. Bengt Sjöholm has long experience from the Medtech industry, essentially within the pharmaceutical and hospital sectors. Bengt held leading positions in the Getinge Group, being a part of the group management for more than 10 years. He was also CEO of Tylö group, a company within the wellness business and Movement Medical AB, an orthopedic hospital, now a part of the Capio group. Bengt is currently involved in creating a new concept for hospital management, Hälsostaden. Bengt is Member of the Board of Mentice AB, Texor Ab and Cellink AB."
+    },
+
+    home_BoardOfDirectors_8_title:{
+        zh: "海拉德·卡斯特勒（Harald Castler）",
+        en: "Lars-Peter Harbing"
+    },
+
+    home_BoardOfDirectors_8: {
+        zh: "董事会成员，市场与业务发展战略顾问。海拉德·卡斯特勒是瑞典著名医疗器械公司Getinge 公司的高层管理人员，在该公司工作已经超过30年历史，担任过各种不同的职位，主攻营销与市场方向，从2017年4月开始，主要负责拓展公司生命科学领域业务。海拉德自2017年开始担任CarpoNovum公司董事会成员，兼任Halmstad大学的理事会主席。海拉德毕业于隆德大学，获理学硕士学位。",
+        en: "Board member, Market analysis and Business Strategy. Harald Castler is a director of Getinge AB and member of it’s executive management team. He has worked for the company for almost 30 years and held several positions, mainly in sales and marketing. Since April 2017, Harald has the global responsibility to build up the new business area Getinge Life Science. Chairman of the board at Halmstad University 2017-present. Board member at CarpoNovum and Bomill AB 2014-2017. Mr Castler holds a Master of Science from Lund University."
+    },
+
     home_Orgnisation_1: {
         zh: "组织结构",
         en: "Orgnisation"
@@ -748,6 +768,11 @@ var dict = {
     home_instructional_video_6: {
         zh: "CREX-Xray",
         en: "CREX-Xray"
+    },
+
+    instructional_video_comment: {
+        zh: "请按此按钮调节适合您的分辨率",
+        en: "Please adjust the resolution under this button"
     },
 
     contact_title: {
