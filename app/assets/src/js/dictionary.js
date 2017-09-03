@@ -307,7 +307,7 @@ var dict = {
     },
 
     home_BoardOfDirectors_7_title:{
-        zh: "安德斯·格伦博格（Bengt Sjöholm）",
+        zh: "本特·湖霍尔姆（Bengt Sjöholm）",
         en: "Bengt Sjöholm"
     },
 
