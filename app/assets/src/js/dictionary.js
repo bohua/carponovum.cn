@@ -121,12 +121,12 @@ var dict = {
 
 
     home_carponovum_1: {
-        zh: "CarpoNovum 是一家专注于结直肠外科吻合器研发和生产的瑞典医疗器械公司，公司总部位于瑞典哈姆斯塔德（Halmstad）市。",
+        zh: "CarpoNovum 是一家专注于结直肠外科吻合器研发和生产的瑞典医疗器械公司，总部位于瑞典哈姆斯塔德（Halmstad）市。",
         en: "CarpoNovum AB is a Swedish company based in Halmstad, focused on developing a new generation of surgical instruments, used throughout cancer surgery in the colon and rectum."
     },
 
     home_carponovum_2: {
-        zh: "CarpoNovum致力于研发结直肠癌领域的新一代外科手术用医疗器械。公司拥有专家级水准的研发团队，秉持通过改善手术前环境以及选择合适的外科手术器材降低术后并发症的理念，通过十余年的不懈努力，已经成功的研制出针对大肠癌症外科手术治疗的结直肠吻合器系列专利产品。",
+        zh: "在结直肠癌手术器械上的大胆创新是CarpoNovum一直努力并已逐步达成的目标。包括医疗、人体工程设计、机械材料领域等多方面资深研发人士经十余年不断完善，已构建出一整套先进的产品家族。该系列从理念到临床运用及实际效果均突破传统设计的局限性，让更安全、更方便、更简洁、更快速成为可能。",
         en: "CarpoNovum has expert competence of cancer surgery in house and therefore a very good understanding of what is needed to radically improve the surgical instruments and preoperative conditions in order to reduce complication rates. After over 10 years of research and product development, we now have surgical instruments aimed to be used at cancer surgery in the large intestine."
     },
 
@@ -136,7 +136,7 @@ var dict = {
     },
 
     home_carponovum_3: {
-        zh: "在公司现有的产品线中，CREX FixAid已经通过欧洲CE安全认证，在欧洲各国销售，而CREX LapAid和RectoAid目前还处在临床研究阶段。",
+        zh: "目前，在系列产品中，CREX FixAid已经通过欧洲CE安全认证并运用于欧洲不同地区；CREX LapAid已通过中国国家质量检测机构认证，并在临床试验阶段取得非常满意可靠的反馈结果；CREX RectoAid 顺利通过国家级检测机构安全认证，近期亦将很快投入临床试验研究评估。",
         en: "The CREX FixAid product is CE marked and introduced on the market in Europe. The CREX LapAid and RectoAid are only for clinical studies."
     },
 
@@ -202,11 +202,11 @@ var dict = {
         en: "Has the possibility to stimulate, and to improve the outcome of the healing process."
     },
     home_vision_9: {
-        zh: "能在肠吻合手术前监测并确定肠道末端的循环状态",
+        zh: "能在肠吻合术后监测并确定吻合口愈合情况",
         en: "Monitors and determines the status of the circulation in the intestinal ends before creating the anastomosis."
     },
     home_vision_10: {
-        zh: "手术操作简便，用户界面友好，易于学习。",
+        zh: "手术操作简单易学，安全可靠。",
         en: "The surgical procedure should be short, user-friendly and easy to learn."
     },
 
@@ -282,7 +282,7 @@ var dict = {
     },
 
     home_BoardOfDirectors_4: {
-        zh: "董事会主席。毕业于哥本哈根商学院，继而就读欧洲管理学院获得工商管理硕士。他有着长期私募资金投资经验，并合伙创立了“阿尔特资金合伙人”，一家顶尖的中型私募资金投资公司，其业务主要集中于投资和发展北欧地区的中型企业。此前丹尼斯曾在伦敦和巴黎的Braxton Associates公司担任投资战略顾问，在Intermediate Capital Group从事了八年欧洲，亚洲，大洋洲和美国地区投资组合管理工作。\n",
+        zh: "毕业于哥本哈根商学院，继而就读欧洲管理学院获得工商管理硕士。他有着长期私募资金投资经验，并合伙创立了“阿尔特资金合伙人”，一家顶尖的中型私募资金投资公司，其业务主要集中于投资和发展北欧地区的中型企业。此前丹尼斯曾在伦敦和巴黎的Braxton Associates公司担任投资战略顾问，在Intermediate Capital Group从事了八年欧洲，亚洲，大洋洲和美国地区投资组合管理工作。\n",
         en: "Chairman of the Board. Mr. Viet-Jacobsen studied at Copenhagen business school and subsequently at EAP, European Management School, where he obtained his MBA. He has long standing experience of private equity investing and co-founded Altor Equity Partners in 2002-03, a leading mid market private equity firm, focused on investing in and developing medium sized companies in the Nordic region. Prior to that he spent 8 years with Intermediate Capital Group, the leading independent mezzanine provider with investment portfolios in Europe, Asia Pacific and the US. He has also worked as a strategy consultant with Braxton Associates in London and Paris.."
     },
 
@@ -353,12 +353,12 @@ var dict = {
     },
 
     home_Partners_4: {
-        zh: "分包商",
+        zh: "优质高效的产品制造",
         en: "Subcontractors"
     },
 
     home_Partners_5: {
-        zh: "自去年开始公司创建了一套体系来审核相关的供应商，确保公司签约的供应商/分包商都具有相应的资质，满足生产的各项高标准严要求。部分产品组件的生产地点从欧洲搬到了中国，但核心组件的生产仍然在瑞典完成。公司为此特别雇佣专人在中国筛选最优秀的供应商。目前公司签约的分包商共有7家，全部达到了我们的质量体系标准。公司在产品质量方面一直坚持高标准，所以对于签约分包商也秉持严苛的要求。",
+        zh: "CarpoNovum公司始终依照ISO9001,ISO13485等相关管理体系标准严格审查甄选产品组件供应商，使其在取得生产授权的认证资质后能高效精准地完成每批次产品组件。除了关键部分在欧洲大陆进行生产加工外，近年来CarpoNovum公司也将一部分产品组件的加工任务交给中国最优秀的制造商。目前，已有7家顶尖在华制造企业获得加工授权。为了保证高标准高质量，公司对每批组件均进行百分百验证，并不定期对厂家进行飞行检查。",
         en: "Our company has over the last year built up a way to \"auditing\" suppliers that meet high production requirements and have its own quality certificate. The production of some parts has been moved from Europe to China. Numbers of crucial parts are still manufactured in Sweden. A dedicated person has been hired solely to find the best suppliers in China. Today we have seven subcontractors that we trust and that is implemented in our quality system. The quality on our product keep a very high standard and our demands on our subcontractors are very high. "
     },
 
@@ -368,32 +368,32 @@ var dict = {
     },
 
     home_Partners_7: {
-        zh: "公司内自带清洁程序",
+        zh: "验证完善的清洁流程",
         en: "Cleaning process in house"
     },
 
     home_Partners_8: {
-        zh: "CarpoNovum 公司内部自带已验证有效的清洗程序，这使得公司可以选择不具有这一能力的分包商。所以，公司自带清洁程序对于降低生产成本而言具有战略性意义。",
+        zh: "CarpoNovum 公司根据相关标准建立了一整套完善的清洁流程。该流程已经验证，并保障了产品组件在组装前已达到医疗级专业清洁标准。",
         en: "CarpoNovum has its own validated washing process in house which gives us the possibility to use suppliers that do not have the knowledge of this process. To have our own washing process has therefore been a strategic goal to reduce production costs. "
     },
 
     home_Partners_9: {
-        zh: "最终组装在公司内进行",
+        zh: "信心保证的欧洲装配",
         en: "Final assembly in house"
     },
 
     home_Partners_10: {
-        zh: "FixAid，LapAid和RectoAid的最终组装是在公司的洁净室完成的。虽然最终组装的过程并不复杂，但需要组装者熟悉产品和使用方法。我们一直致力于创造完美的最终组装环境，以便战略性的降低生产成本，同时提升最终产品的质量。在组装前和组装中，我们对所有组件采用QCP质量控制程序（100%控制）以确保最终产品达到最优的品质。\n",
+        zh: "FixAid，LapAid和RectoAid的最终组装都是CarpoNovum瑞典总部的无尘间内完成，以确保达到最佳品质。实时监控的无尘环境，训练有素的瑞典专业装配技师以及在组装前后均按严格的QCP质控全检，是产品万无一失的有力保障。",
         en: "The final assembly of FixAid, LapAid and RectoAid is performed in our own cleanroom. The assembly is a relatively straight forward process but requires knowledge of the product and its use. Creating perfect conditions to conduct final assembly has been a strategic part of our efforts to reduce production costs and increase the quality of the final product. Before and during assembly we perform QCP (Quality Control Procedures) on all parts (100% control) to assure that the final product reach premium quality."
     },
 
     home_Partners_11: {
-        zh: "降低被仿制风险",
+        zh: "周密部署的设计保护",
         en: "Risk reduction for reproduction"
     },
 
     home_Partners_12: {
-        zh: "组件外包生产不可避免的伴随着产品被仿制的风险。将各组件打乱分散给多家不同分包商生产可以极大的降低这种风险。我们目前就是采取这一策略，将分开生产的零件运回瑞典总部进行最终QCP，激光标识，清洗以及最后组装。\n",
+        zh: "通过注册专利、有计划地安排及分散设计图纸、签订严格的保密协议，CarpoNovum公司在保证产品质量的同时也非常注重对产品设计上的相关保护。所有分开生产的零部件最终均运回瑞典总部进行最终QCP，激光标识，清洗以及最后组装。",
         en: "Companies that are working with suppliers and particularly suppliers from low cost countries know that there is a high risk to be reproduced, actually it is more or less compulsory that a new device will be copied. Anyone that believe differently is a fool. The only chance to avoid being copied is to spread out the manufacturing to different suppliers and manufacture different parts that has no logic connection for the subcontractor. This is how we manufacture our devices. All parts are then sent to Sweden for final QCP, laser marking, washing and final assembly. "
     },
 
