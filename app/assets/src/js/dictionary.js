@@ -282,7 +282,7 @@ var dict = {
     },
 
     home_BoardOfDirectors_4: {
-        zh: "毕业于哥本哈根商学院，继而就读欧洲管理学院获得工商管理硕士。他有着长期私募资金投资经验，并合伙创立了“阿尔特资金合伙人”，一家顶尖的中型私募资金投资公司，其业务主要集中于投资和发展北欧地区的中型企业。此前丹尼斯曾在伦敦和巴黎的Braxton Associates公司担任投资战略顾问，在Intermediate Capital Group从事了八年欧洲，亚洲，大洋洲和美国地区投资组合管理工作。\n",
+        zh: "董事会成员。毕业于哥本哈根商学院，继而就读欧洲管理学院获得工商管理硕士。他有着长期私募资金投资经验，并合伙创立了“阿尔特资金合伙人”，一家顶尖的中型私募资金投资公司，其业务主要集中于投资和发展北欧地区的中型企业。此前丹尼斯曾在伦敦和巴黎的Braxton Associates公司担任投资战略顾问，在Intermediate Capital Group从事了八年欧洲，亚洲，大洋洲和美国地区投资组合管理工作。\n",
         en: "Chairman of the Board. Mr. Viet-Jacobsen studied at Copenhagen business school and subsequently at EAP, European Management School, where he obtained his MBA. He has long standing experience of private equity investing and co-founded Altor Equity Partners in 2002-03, a leading mid market private equity firm, focused on investing in and developing medium sized companies in the Nordic region. Prior to that he spent 8 years with Intermediate Capital Group, the leading independent mezzanine provider with investment portfolios in Europe, Asia Pacific and the US. He has also worked as a strategy consultant with Braxton Associates in London and Paris.."
     },
 
@@ -529,12 +529,12 @@ var dict = {
 
 
     home_TechnologyAndProducts_1: {
-        zh: "技术与产品介绍",
+        zh: "相关背景介绍",
         en: "Technology and Products "
     },
 
     home_TechnologyAndProducts_2: {
-        zh: "许多胃肠道疾病都需要进行部分肠道的切除和术后的重新连接。其中一种就是大肠区域的癌症。大多数结直肠癌症都需要使用外科手术进行治疗。结肠直肠癌手术通常都比较耗时。如果需要在较低的盆腔区域形成吻合，那么外科医生也很难有足够的空间做肠缝合。这些病例中有三分之一是所谓的低切除，外科医生需要在较低的骨盆区域进行手术，将结肠吻合到直肠。这种解剖学上的高难度操作催生了新的手术方法。半个多世纪以前（1964年）圆形钉合吻合仪器面世，直肠吻合领域从此翻开了新篇章。自面世以来，圆形钉合吻合仪器有了各种改进，但仪器的基本原理并没有变化。在过去的45年中，在低切除术后使用圆形钉合吻合器进行吻合已经成为了常规手段。尽管这一技术已经如此普及，但仍然存在着一些有待解决的问题。",
+        zh: "许多消化道疾病需要外科手术进行肠切除、改道、吻合重建，这也包括大肠癌手术领域。为了保证手术顺利完成，通常外科医师需要有一定空间进行操作，但这其中至少有三分之一的病例必须在低位盆腔的狭小范围内完成结肠与直肠的吻合，若使用手工缝合则存在诸多不便。为此，在半个多世纪前，圆形钉合吻合器应运而生，并逐渐成为该领域的常规手术方式。遗憾的是，钉合吻合器自身有不少限制和弊端，因为依旧运用相同机械原理，故尽管进行了不断改进，仍无法从根本上解决问题。",
         en: "Numerous diseases in the gastrointestinal tract require surgical procedures in which parts of the intestine are resected (cut off) and joined together again. One such disease is cancer in the large intestine. A majority of all colorectal cancers are treated by surgery. Colorectal cancer surgery is always time consuming and, if the anastomosis needs to be formed in the lower pelvic area, it is also very difficult for the surgeon to get sufficient access for suturing the intestine together. One third of these cases, so-called low resections, are in the lower pelvic area where surgeons need to anastomose the colon to the rectum. The anatomical difficulties have brought forward new procedures. More than half a century ago (1964) the circular stapling instrument was introduced. This was the start of a new era in the possibilities of anastomosing the colon to the rectum. The circular stapling instrument has been refined and improved since its introduction but the basic principles for the instrument remain. The use of the circular stapler for anastomosis after low resections has been the established surgical procedure for the last 45 years. Although the stapling technique is a common procedure it is associated with certain problems."
     },
 
@@ -579,7 +579,7 @@ var dict = {
     },
 
     home_SurgicalProcedure_1: {
-        zh: "外科手术步骤",
+        zh: "肠道器械吻合方式比对",
         en: "Surgical procedure"
     },
 
@@ -631,8 +631,13 @@ var dict = {
     },
 
     home_Products_2: {
-        zh: "CREX是 CarpoNovum公司独家研发的专利产品，目前全球市面上尚未有其它相似的器械。公司申请了完备的产品/方法专利，覆盖了全世界各大洲的主要国家。该产品线的核心基础是肠道吻合手术短期植入环（连接环）。整个产品线共包含三种吻合器，分别适用于不同的肠区域，而连接环是通用的。其中，FixAid适用于开腹结肠手术，LapAid适用于腹腔镜结肠手术，RectoAid适用于直肠癌手术。目前，公司正在进行针对LapAid和RectoAid性能的临床研究。 产品线中还包含配套的测量仪器CREX TestDevice、连接导管以及愈合情况监测仪器CREX HealGuard。CREX TestDevice可以测量肠道的尺寸大小。连接环有两种形式，带导管的CREX DMHC或不带导管的CREX DMH。 CREX HealGuard有两个功能，用于测量手术中的肠道压力并检查手术后的吻合情况。 综上，整个CREX产品组合共包含七种设备与配件，考虑上不同的尺寸一共有十七样器材。",
+        zh: "由CarpoNovum公司独立研发的CREX专利产品家族富含创新品质，目前在全球范围内属领先水平，在市场上无其它类似器械。与此同时，系列产品在世界主要国家均申请了完备的产品及方法的专利保护。CREX核心技术在于协助吻合手术的的短期植入环（连接环），三大吻合产品均基于此原理进行开发升级。在结直肠手术中，FixAid系列适用于结肠方面的开放术式；LapAid系列适用于结肠及直肠上段的开放及腹腔镜术式，可选择与带监测导管的CREX DMHC或不带导管的CREX DMH两种连接环配合使用；RectoAid系列适用于直肠癌相关术式，是一种非常具有潜力的独创设计，该系列很可能将对超低位直肠癌手术带来革命性影响。目前，针对LapAid和RectoAid性能的临床多中心研究正在包括瑞典、丹麦、德国、以色列及中国范围内进行中。",
         en: "CREX is fully developed by CarpoNovum. There are no similar instruments on the global market. The unique method/products are patented on all continents. The product portfolio is based on anastomotic short-term implant rings (connection rings). The rings fit three different instruments that make it possible to put the rings in place in all different parts of colon and rectum. However, FixAid is designed for open surgery on colon, LapAid for laparoscopic surgery on colon and RectoAid for rectal cancer surgery. LapAid and RectoAid are the subjects of ongoing clinical studies. The size of the intestine is possible to measure with CREX TestDevice and the connection ring has two options, with (CREX DMHC) or without (CREX DMH) catheters. CREX HealGuard has two functions, measure the pressure during surgery and check the anastomosis after surgery. All together CREX-portfolio containing seven (7) different devices and including different sizes, it adds up to seventeen instruments."
+    },
+
+    home_Products_10:{
+        zh: "除此之外，作为与之相配套的相关产品还包括测量结肠管径的CREX Test Device，可与监测导管相连以用来测量术中肠吻合口压力及术后吻合口愈合情况的CREX Heal Guard。故总体上，CREX家族共七大系列共十七款不同尺寸的器械可供结直肠外科手术时充分选择。",
+        en: ""
     },
 
     home_Products_3: {
