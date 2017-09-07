@@ -278,5 +278,8 @@ and (-webkit-min-device-pixel-ratio: 2) {
         width: 6rem;
         height: 6rem;
     }
+}
 
+.flexgrid-2 p{
+    text-align: justify;
 }

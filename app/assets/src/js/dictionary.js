@@ -739,6 +739,30 @@ var dict = {
         zh: "CREX RectoAid的临床试验也在进行中。该仪器已经通过了中国食品药品管理局的审核。目前仪器的临床试验方案正在瑞典和中国选定试验医院经由医院伦理委员会讨论审核。该临床试验与CREX LapAid的试验方案相似，只是使用部位由结肠改为了直肠。试验终点完全一样，试验认证方案也相似。一旦该临床试验方案获得伦理委员会的批准，大概需要3个月左右完成20例试验。",
         en: "At present a clinical study with RectoAid is on track. The device is approved by the Chinese authority C-FDA and an ongoing discussion is taking place at the ethical committee at a larger hospital in China and Sweden. The study is similar to CREX LapAid study but the location of the tumor is in rectum instead of colon. The endpoints are the identical and the accreditation plans are similar to what is performed for CREX LapAid. When the study is approved by the ethical committee it will take approximately 3 months to perform the study on 20 patients. "
     },
+    home_ClinicalTrails_14:{
+        zh: "使用CREX RectoAid进行直肠上段吻合。直肠中下段部分则特别推荐使用经肛门全直肠系膜切除术并避免缝钉线（该部分略）。",
+        en: "To make an anastomosis with CREX RectoAid at the upper part of rectum (shown belove). At the lower part of rectum we highly recommend Trans-anal TME to avoid the stapler line (not shown)."
+    },
+    home_ClinicalTrails_15:{
+        zh: "在低位直肠癌手术中，常运用直线型吻合器在下端切除肿瘤",
+        en: "B. Transanal passage of RectoAid in preparation for firing. By rotating the bottom screw on the RectoAid handle the anvil shaft holder penetrates the intestinal end adjacent to the staple line."
+    },
+    home_ClinicalTrails_16:{
+        zh: "经肛门将RectoAid探入并准备击发，旋转手柄调节装置，将穿刺轴从与缝钉线相连的位置穿出。",
+        en: "A. Low rectal tumor is usually resected by the use of some kind of linear stapler at its lower portion."
+    },
+    home_ClinicalTrails_17:{
+        zh: "为了预防吻合口瘘发生，缝钉线两端应向中心处反折并缝合固定于浆肌层",
+        en: "C. To make a leakage free anastomosis, the staple line has to be removed. For that reason, fold the beginning and the end of the staple line (stapler ears) towards its centrum line with a suture."
+    },
+    home_ClinicalTrails_18:{
+        zh: "将穿刺轴与上端卡簧管对拢后逐步对合、靠拢、收紧远近端肠管",
+        en: "D. Connect the anvil with its attached upper portion of the intestine and tighten the intestinal ends by rotating the screw on the handle."
+    },
+    home_ClinicalTrails_19:{
+        zh: "当肠管两侧对合后，击发、切割、吻合等步骤序贯完成。吻合效果确定，在术后24小时、48小时、72小时及7天的充气压力测试中显示，吻合口处抗压强度高于正常肠管。",
+        en: "E.  When the intestinal ends are connected, cut open the lower intestinal end with its folded staple line, with the circular knife on RectoAid. A perfect anastomosis is created. Burst pressure of the anastomosis is more durable than the intestinal wall tested at different timepoints after surgery i.e. 24h, 48h 72h and 7 days after surgery."
+    },
 
     home_instructional_video: {
         zh: "教学视频",
