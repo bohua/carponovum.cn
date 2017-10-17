@@ -246,6 +246,25 @@
             <p class="video-comment-text" translate="instructional_video_comment"></p>
         </div>
         <hr>
+
+        <h3 translate="home_instructional_video_7"></h3>
+        <div class="content center-align 6u 12u$(small)">
+            <video id="video_7" class="video-js vjs-default-skin" poster="images/transanal_TME.jpg" data-setup='{}'
+                   preload="none" controls controlsList="nodownload" fluid="true">
+                <!--<source src="videos/CREX-Xray-240p.mp4" type="video/mp4" label='240P' res="240">-->
+                <source src="videos/transanal-TME-360p.mp4" type="video/mp4" label='SD' res="360">
+                <!--<source src="videos/CREX-Xray-480p.mp4" type="video/mp4" label='480P' res="480">-->
+                <source src="videos/transanal-TME-720p.mp4" type="video/mp4" label='HD' res="720">
+                Your browser does not support the video tag.
+            </video>
+        </div>
+        <div class="6u 12u$(small) video-comment">
+            <div class="image left">
+                <img src="images/gear.jpg" alt=""/>
+            </div>
+
+            <p class="video-comment-text" translate="instructional_video_comment"></p>
+        </div>
     </div>
 </section>
 
@@ -273,4 +292,5 @@
     videojs('video_4').videoJsResolutionSwitcher();
     videojs('video_5').videoJsResolutionSwitcher();
     videojs('video_6').videoJsResolutionSwitcher();
+    videojs('video_7').videoJsResolutionSwitcher();
 </script>
